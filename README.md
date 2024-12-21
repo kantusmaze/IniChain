@@ -1,4 +1,4 @@
-# Initverse
+# Inichain (Initverse)
 
 first register here : [inichain](https://candy.inichain.com?invite=OK53IHA53XCULMMNGSQ680U3X)
 
