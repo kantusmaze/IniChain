@@ -1,6 +1,6 @@
 # Initverse
 
-first register here : (inichain)[https://candy.inichain.com?invite=OK53IHA53XCULMMNGSQ680U3X]
+first register here : [inichain](https://candy.inichain.com?invite=OK53IHA53XCULMMNGSQ680U3X)
 
 Download Installer
 
@@ -40,4 +40,4 @@ Detach from screen by CTL + ALT + D
 
 ## check status
 
-Check your Minner Status: (https://genesis-testnet.yatespool.com)[https://genesis-testnet.yatespool.com/]
+Check your Minner Status: [https://genesis-testnet.yatespool.com](https://genesis-testnet.yatespool.com/)
