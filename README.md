@@ -41,3 +41,11 @@ Detach from screen by CTL + ALT + D
 ## check status
 
 Check your Minner Status: [https://genesis-testnet.yatespool.com](https://genesis-testnet.yatespool.com/)
+
+## Join our Telegram Channel
+
+For more bots and tutorials you can join our Telegram channel
+
+[**UbuntuForNodes**](https://t.me/ubuntufornodes)
+
+also you can follow me on [X(iamshaho)](https://x.com/iamshaho)
