@@ -1,6 +1,6 @@
 # Inichain (Initverse)
 
-first register here : [inichain](https://candy.inichain.com?invite=OK53IHA53XCULMMNGSQ680U3X)
+first register here : [inichain](https://candy.inichain.com?invite=0xd40D965686aE9599693d32D12a481dA0C1d893Dc)
 
 Download Installer
 
